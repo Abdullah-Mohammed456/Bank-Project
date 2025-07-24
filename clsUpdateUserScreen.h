@@ -42,6 +42,7 @@ private:
 				per += pow(2, i);
 			}
 		}
+		if (per == 511) return -1; 
 		return per;
 	}
 public:
