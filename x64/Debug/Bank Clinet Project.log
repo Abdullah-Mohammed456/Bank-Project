@@ -1,0 +1,92 @@
+﻿  clsUser.h
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.h')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.h')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.h')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.h')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.h')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsUser.h')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUtilities.h(206,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsUser.h')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUser.h(139,9): warning C4240: nonstandard extension used: access to 'clsUser::LOGIN' now defined to be 'public', previously it was defined to be 'private'
+      C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUser.h(23,9):
+      see declaration of 'clsUser::LOGIN'
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUser.h(146,9): warning C4240: nonstandard extension used: access to 'clsUser::Transfer' now defined to be 'public', previously it was defined to be 'private'
+      C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUser.h(33,9):
+      see declaration of 'clsUser::Transfer'
+  
+  SetConsoleColors.h
+  Main.cpp
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUtilities.h(206,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUser.h(139,9): warning C4240: nonstandard extension used: access to 'clsUser::LOGIN' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+      C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUser.h(23,9):
+      see declaration of 'clsUser::LOGIN'
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUser.h(146,9): warning C4240: nonstandard extension used: access to 'clsUser::Transfer' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+      C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUser.h(33,9):
+      see declaration of 'clsUser::Transfer'
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsBankClient.h(229,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsBankClient.h(236,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsAddNewClientScreen.h(21,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsTotalAccountBalanceScreen.h(62,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsAddNewUserScreen.h(46,15): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUpdateUserScreen.h(42,15): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsLoginScreen.h(111,12): warning C4129: 'F': unrecognized character escape sequence
+  (compiling source file 'Main.cpp')
+  
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsLoginScreen.h(116,12): warning C4129: 'A': unrecognized character escape sequence
+  (compiling source file 'Main.cpp')
+  
+  Generating Code...
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUser.h(250,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsBankClient.h(200,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsTransactionsMenuScreen.h(32,1): warning C4717: 'clsTransactionsMenuScreen::_ShowTotalBalancesScreen': recursive on all control paths, function will cause runtime stack overflow
+  Bank Clinet Project.vcxproj -> C:\BeBo\visual studio\Bank Clinet Project\x64\Debug\Bank Clinet Project.exe

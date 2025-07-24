@@ -1,0 +1,8 @@
+﻿  Generating code
+  Previous IOBJ not found, fall back to full compilation.
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsTransactionsMenuScreen.h(32): warning C4717: 'clsTransactionsMenuScreen::_ShowTotalBalancesScreen': recursive on all control paths, function will cause runtime stack overflow
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsBankClient.h(200): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsUser.h(250): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\BeBo\visual studio\Bank Clinet Project\Bank Clinet Project\clsCurrencyCalculator.h(60): error C4700: uninitialized local variable 'choice' used
+  All 873 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed
